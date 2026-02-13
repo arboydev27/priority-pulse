@@ -2,6 +2,7 @@
 
 # Dependencies
 node_modules
+/design-ideas
 .pnp
 .pnp.js
 
